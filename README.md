@@ -1,4 +1,4 @@
-# Lyrics Web This was My first Project in my life using HTML and CSS 
+# Lyrics Web This was My first Project 
 the project is very simple and easy but it was the first step 
 
 
