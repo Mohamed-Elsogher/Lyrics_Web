@@ -1,5 +1,5 @@
 # Lyrics Web This was My first Project 
-the project is very simple and easy but it was the first step 
+the project is very simple and easy but it was the first step This project is currently under development, and will continue to improve inshalla
 
 
 
